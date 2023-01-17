@@ -1,3 +1,4 @@
 # waggish-account-4167
 
-![eazy-bus-logo](https://user-images.githubusercontent.com/107456964/212840288-8dfc2c65-c9a4-4494-a69a-0a2616c0d76c.png)
+
+![eazy-bus-logo](https://user-images.githubusercontent.com/107456964/212841080-7b8bd832-e66c-4836-8496-a31ca45d7b1b.png)
