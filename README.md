@@ -8,9 +8,9 @@
 
 # Users of this application:
 
-<h3> • Customer </h3>
+<h3> 1. Customer </h3>
 
-<h3> • Administrator </h3>
+<h3> 2. Administrator </h3>
 
 <h3> Roles of Customer are: </h3>
 
@@ -44,7 +44,7 @@
 
 <h3> Auto Operations: </h3>
 
-• Seat can not be if not available.
+• Seat can not be booked if not available.
 
 • Once the seat is booked, automatically the seat would be deducted.
 
