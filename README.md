@@ -4,6 +4,8 @@
 
 <h3> The main objective of this project is to cater the needs of the passenger who are traveling from one point to another. This project have contains essential modules like Customer and Administrator. User can book ticket one day before. </h3>
 
+![eazy-bus-logo](https://user-images.githubusercontent.com/107456964/212841080-7b8bd832-e66c-4836-8496-a31ca45d7b1b.png)
+
 <h3> Users of this application: </h3>
 
 • Customer
@@ -45,8 +47,6 @@
 • Seat can not be if not available.
 
 • Once the seat is booked, automatically the seat would be deducted.
-
-![eazy-bus-logo](https://user-images.githubusercontent.com/107456964/212841080-7b8bd832-e66c-4836-8496-a31ca45d7b1b.png)
 
 # ER Diagram:
 
