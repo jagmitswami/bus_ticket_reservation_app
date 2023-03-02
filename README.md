@@ -10,9 +10,9 @@ Users of this application:
 
 Roles of Customer are:
 
-• Anyone can register as customer.
-• Login with username and password.
-• Change password.
+• Anyone can register as customer
+• Login with username and password
+• Change password
 • Book ticket by selecting source and destination.
 • View booked tickets on their own id.
 • View buses for a particular source and destination.
