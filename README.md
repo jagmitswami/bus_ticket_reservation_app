@@ -3,13 +3,13 @@
 • <a href="https://drive.google.com/file/d/1nLJm-MjeW6s_TiEJ7NTuBMivBDPSBPql/view?usp=sharing"> Presentation </a>
 The main objective of this project is to cater the needs of the passenger who are traveling from one point to another. This project have contains essential modules like Customer and Administrator. User can book ticket one day before.
 
-Users of this application:
+<h3> Users of this application: </h3>
 
 • Customer
 
 • Administrator
 
-Roles of Customer are:
+<h3> Roles of Customer are: </h3>
 
 • Anyone can register as customer
 
@@ -27,7 +27,7 @@ Roles of Customer are:
 
 • Customer can cancel ticket.
 
-Role of Administrator are:
+<h3> Role of Administrator are: </h3>
 
 • Login with username and password.
 
@@ -39,7 +39,7 @@ Role of Administrator are:
 
 • Provide the Contact persons details after confirmation of the seat.
 
-Auto Operations:
+<h3> Auto Operations: </h3>
 
 • Seat can not be if not available.
 
