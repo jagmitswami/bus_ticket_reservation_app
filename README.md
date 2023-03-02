@@ -1,7 +1,8 @@
 # Eazy Bus
 
-• <a href="https://drive.google.com/file/d/1nLJm-MjeW6s_TiEJ7NTuBMivBDPSBPql/view?usp=sharing"> Presentation </a>
-The main objective of this project is to cater the needs of the passenger who are traveling from one point to another. This project have contains essential modules like Customer and Administrator. User can book ticket one day before.
+• <a href="https://drive.google.com/file/d/1nLJm-MjeW6s_TiEJ7NTuBMivBDPSBPql/view?usp=sharing"> <h3> Presentation </h3> </a>
+
+<h3> The main objective of this project is to cater the needs of the passenger who are traveling from one point to another. This project have contains essential modules like Customer and Administrator. User can book ticket one day before. </h3>
 
 <h3> Users of this application: </h3>
 
