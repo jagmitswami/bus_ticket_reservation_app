@@ -6,11 +6,11 @@
 
 ![eazy-bus-logo](https://user-images.githubusercontent.com/107456964/212841080-7b8bd832-e66c-4836-8496-a31ca45d7b1b.png)
 
-<h3> Users of this application: </h3>
+# Users of this application:
 
-• Customer
+<h3> • Customer </h3>
 
-• Administrator
+<h3> • Administrator </h3>
 
 <h3> Roles of Customer are: </h3>
 
@@ -30,7 +30,7 @@
 
 • Customer can cancel ticket.
 
-<h3> Role of Administrator are: </h3>
+<h3> Roles of Administrator are: </h3>
 
 • Login with username and password.
 
