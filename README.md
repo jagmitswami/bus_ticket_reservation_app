@@ -4,10 +4,12 @@
 The main objective of this project is to cater the needs of the passenger who are traveling from one point to another. This project have contains essential modules like Customer and Administrator. User can book ticket one day before.
 
 Users of this application:
+
 • Customer
 • Administrator
 
 Roles of Customer are:
+
 • Anyone can register as customer.
 • Login with username and password.
 • Change password.
