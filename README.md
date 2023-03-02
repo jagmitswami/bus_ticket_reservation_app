@@ -1,5 +1,6 @@
 # Eazy Bus
 
+The main objective of this project is to cater the needs of the passenger who are traveling from one point to another. This project have contains essential modules like Customer and Administrator. User can book ticket one day before.
 
 ![eazy-bus-logo](https://user-images.githubusercontent.com/107456964/212841080-7b8bd832-e66c-4836-8496-a31ca45d7b1b.png)
 
