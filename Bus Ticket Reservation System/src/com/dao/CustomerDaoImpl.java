@@ -172,8 +172,9 @@ public class CustomerDaoImpl implements CustomerDao{
 		
 		try(Connection conn = DBUtil.provideConnection()) {
 			
-			PreparedStatement ps2 =conn.prepareStatement("delete from tickets where seat_no=?");
+			PreparedStatement ps2 =conn.prepareStatement("delete from tickets where seat_no=? and bid=?");
 			ps2.setInt(1, seat_no);
+			ps2.setInt(2, bid);
 			int y = ps2.executeUpdate();
 				
 			if(y>0) {

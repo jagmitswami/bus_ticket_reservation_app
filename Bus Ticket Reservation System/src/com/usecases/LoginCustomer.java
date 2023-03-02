@@ -13,10 +13,16 @@ public class LoginCustomer {
 		try {
 			Scanner sc = new Scanner(System.in);
 			
-			System.out.println("Enter id: ");
+			System.out.println("_________________________");
+			System.out.println("|                       |");
+			System.out.println("|  Enter customer id:   |");
+			System.out.println("|_______________________|");
 			int cid = sc.nextInt();
 			
-			System.out.println("Enter password: ");
+			System.out.println("_______________________________");
+			System.out.println("|                             |");
+			System.out.println("|  Enter customer password:   |");
+			System.out.println("|_____________________________|");
 			String cpass = sc.next();
 			
 			
@@ -26,12 +32,17 @@ public class LoginCustomer {
 			if(res) {
 				CustomerLoginInterface.customerLoginInterface(cid);
 			}else {
-				System.out.println("wrong id or password...");
+
+				System.out.println("____________________________");
+				System.out.println("|                          |");
+				System.out.println("|  Wrong id or password!   |");
+				System.out.println("|__________________________|");
+
 			}
 			
 			sc.close();
 		} catch (Exception e) {
-			// TODO: handle exception
+
 			System.out.println(e.getMessage());
 		}
 	}
