@@ -5,4 +5,4 @@
 
 ER Diagram:
 
-![Screenshot (23)](https://user-images.githubusercontent.com/107456964/216755374-14b6050f-1445-483e-a150-7ef436b32f41.png)
+![eazybus_er_diagram](https://user-images.githubusercontent.com/107456964/222445879-8b8bb189-eab5-49f7-a3ea-720c451c4478.png)
