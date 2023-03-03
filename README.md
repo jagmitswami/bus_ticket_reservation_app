@@ -48,6 +48,6 @@
 
 • Once the seat is booked, automatically the seat would be deducted.
 
-# ER Diagram:
+# Entity Relationship Diagram:
 
 ![eazybus_er_diagram](https://user-images.githubusercontent.com/107456964/222445879-8b8bb189-eab5-49f7-a3ea-720c451c4478.png)
