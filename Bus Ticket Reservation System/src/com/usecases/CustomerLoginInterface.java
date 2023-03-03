@@ -25,7 +25,14 @@ public class CustomerLoginInterface {
 		else if(input==3) CChangePassword.changePassword(cid);
 		else if(input==4) CShowAllBusesOnDate.showAllBusesOnDate(cid);
 		else if(input==5) CBookTicket.bookTicket(cid);
-		else System.out.println("Logged out and exited...");
+		else {
+			
+			System.out.println("____________________________");
+			System.out.println("|                          |");
+			System.out.println("|  Logged out and exited   |");
+			System.out.println("|__________________________|");
+			
+		}
 		sc.close();
 	}
 

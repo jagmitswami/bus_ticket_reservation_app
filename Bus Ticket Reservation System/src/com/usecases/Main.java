@@ -21,7 +21,14 @@ public class Main {
 		if(input == 1) LoginAdmin.loginAdmin();
 		else if(input==2) LoginCustomer.loginCustomer();
 		else if(input==3) RegisterCustomer.registerCustomer();
-		else if(input==4)System.out.println("Exited...");
+		else if(input==4) {
+			
+			System.out.println("_____________");
+			System.out.println("|           |");
+			System.out.println("|  Exited   |");
+			System.out.println("|___________|");
+			
+		}
 		else Main.main(args);;
 		
 		sc.close();

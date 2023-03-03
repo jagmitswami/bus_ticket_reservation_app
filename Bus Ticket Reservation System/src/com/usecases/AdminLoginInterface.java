@@ -29,7 +29,12 @@ public class AdminLoginInterface {
 		else if(input==6) AShowTicketDetails.showTicketDetails();
 		else if(input==7) AShowCustomerDetailsInTheBus.showCustomerDetailsInTheBus();
 		else if(input==8) AShowNoOfSeatsAvailable.showNoOfSeatsAvailable();
-		else System.out.println("logged out and exited...");
+		else {
+			System.out.println("____________________________");
+			System.out.println("|                          |");
+			System.out.println("|  Logged out and exited   |");
+			System.out.println("|__________________________|");
+		}
 		sc.close();
 	}
 

@@ -36,7 +36,7 @@ public class CChangePassword {
 			CustomerLoginInterface.customerLoginInterface(cid);
 			sc.close();
 		} catch (Exception e) {
-			// TODO: handle exception
+
 			System.out.println(e.getMessage());
 		}
 	}
